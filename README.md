@@ -6,7 +6,7 @@
 
 > Puti is not a tree  
 > Mirror is not a table  
-> There isnothing here at all  
+> There is nothing here at all  
 > Why the PM2.5 is so Fucking high!
 >
 > -- 《坛经·六祖惠能》
