@@ -1,6 +1,15 @@
 # No Code
 
-> 天下万物生于有，有生于无。—— 《道德经》
+> 天下万物生于有，有生于无。
+> 
+> -- 《道德经·老子》
+
+> Puti is not a tree  
+> Mirror is not a table  
+> There isnothing here at all  
+> Why the PM2.5 is so Fucking high!
+>
+> -- 《坛经·六祖惠能》
 
 No code 是编写安全的、可靠的程序的最佳方式。Write nothing; deploy nowhere。
 
