@@ -11,7 +11,7 @@
 >
 > -- 《坛经·六祖惠能》
 
-No code 是编写安全的、可靠的程序的最佳方式。Write nothing; deploy nowhere。
+No code 是编写安全的、可靠的程序的最佳方式。Write nothing; deploy nowhere.
 
 ## Getting Started
 
